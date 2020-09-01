@@ -1,0 +1,4 @@
+name,street,city,state,zip,homephone,cellphone,workphone - There are all the required values
+Amar,Sathe Path,Pune,Maharashtra,411016,7038566424,9423742625,9426318787
+Akbar,Darga Marg,Hyderabad,Telangana,443201,7000066424,9123742625,9123418787
+Anthony,Railway Station Road,Aurangabad,Maharashtra,411003,7000061234

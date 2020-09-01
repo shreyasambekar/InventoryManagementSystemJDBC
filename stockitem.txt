@@ -1,0 +1,5 @@
+itemDescription, itemPrice, quantity and unit of Item are the attributes of stockItem. Only first two are required. Unit of Item can be decided from the item description and if quantity is not provided is set to the minimum quantity specified in enum. 
+Milk,60,120
+Chicken,100,150
+Apple,40
+Egg
